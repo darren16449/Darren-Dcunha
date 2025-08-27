@@ -17,11 +17,11 @@
 
 ## 📂 Featured Projects  
 
-### 📊 [Financial Data Science Pipeline](link-to-repo)
+### 📊 [Financial Data Science Pipeline]([link-to-repo](https://github.com/darren16449/Financial-Data-Science-Pipeline))
 Automates data loading → preprocessing → modeling → visualization for stock analysis.  
 **Tech:** Python, Pandas, Matplotlib, sklearn  
 
-### 🤖 [Synthetic Data Generator](link-to-repo)
+### 🤖 [Synthetic Data Generator]([link-to-repo](https://github.com/darren16449/-FinSynGen-Synthetic-Financial-Data-Generator))
 LLM-based synthetic financial data generator with statistical validation.  
 **Tech:** OpenAI API, Hugging Face, NumPy, Matplotlib  
 

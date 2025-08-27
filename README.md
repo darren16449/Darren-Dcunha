@@ -25,7 +25,7 @@ Automates data loading → preprocessing → modeling → visualization for stoc
 LLM-based synthetic financial data generator with statistical validation.  
 **Tech:** OpenAI API, Hugging Face, NumPy, Matplotlib  
 
-### 🌐 [Marketing Content Assistant](link-to-repo)
+### 🌐 [Marketing Content Assistant](https://github.com/darren16449/Marketing-Content-Assistant)
 RAG-powered multilingual AI that generates SEO-optimized content for social media.  
 **Tech:** Streamlit, GPT, ChromaDB, Hugging Face  
 

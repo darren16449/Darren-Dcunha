@@ -32,5 +32,4 @@ RAG-powered multilingual AI that generates SEO-optimized content for social medi
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](your-linkedin-link)  
-- 📝 [Portfolio Website](optional if you build one later)  
+- 💼 [LinkedIn](www.linkedin.com/in/darren-dcunha-4414291b6)  
